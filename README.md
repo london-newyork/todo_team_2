@@ -1,5 +1,9 @@
 # Todo リスト作成チーム開発（第 2 期）
 
+## デプロイ
+
+https://todo-team-2-omega.vercel.app/
+
 ## 開発メンバー
 
 - 管理： ジュンペイ　（Junkichi89）
